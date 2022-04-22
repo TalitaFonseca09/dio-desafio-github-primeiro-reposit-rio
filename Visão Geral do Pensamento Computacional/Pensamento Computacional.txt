@@ -1,0 +1,27 @@
+O que é o pensamento computacional?
+- Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos.
+
+Baseado em 4 pilares
+- Decomposição
+- Reconhecimento de padrões
+- Albstração
+- Algoritmos
+
+Processo contínuo
+- definir uma solução
+- testar a solução
+- aperfeiçoamento da solução encontrada
+
+Competências
+- Pensamento sistemático
+- colaboração dentro da equipe
+- criatividade e design
+- facilitador
+
+Habilidades Complementares
+- Raciocínio Lógico que permite encontrar a conclusão ou determinar a resolução de um problema.
+- Aperfeiçoamento que a partir de uma solução determina pontos de melhora e refinamento. Usado para encontrar solução eficiente, otimizar processos, simplificar linhas de códigos e funções bem definidas. 
+
+
+
+

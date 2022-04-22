@@ -1,0 +1,36 @@
+Site do Git para download: https://git-scm.com/downloads
+ 
+Benefícios: 
+1- controle de versão
+2- armazenamento em nuvem
+3- trabalho em equipe
+4- melhorar seu código
+5- reconhecimento
+
+Comandos no Windows 
+cd
+dir
+mkdir
+del/rmdir
+
+Comandos no Unix
+cd
+ls
+mkdir
+rm-rf
+
+Objetos internos do Git
+-blobs
+-trees
+-commits
+
+Primeiros comandos com o Git
+-git init
+-git add
+-git commit
+-git status
+-git clone
+
+Criar conta no GitHub:
+https://github.com/
+
