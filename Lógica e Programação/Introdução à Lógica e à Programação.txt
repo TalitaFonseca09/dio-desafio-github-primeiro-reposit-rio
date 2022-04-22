@@ -1,0 +1,18 @@
+O que é lógica?
+- Coerência de raciocínio e ideias 
+
+Lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema. 
+
+A Abstração é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais. 
+
+Algoritmos são sequências de passos para resolver um problema.
+E Pseudocódigos é a forma genérica de escrever um algoritmo utilizando  uma linguagem simples.
+
+Tomadas de Decisões(1) e Expressões(2)
+(1)- ocorre algumas vezes a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução
+(2)- utilizam operadores artméticos e funções aritméticas envolvendo constantes e variáveis.
+
+Concatenação
+- É um termo usado em computação para designar a operação de unir o conteúdo de duas strings*.
+*string é uma sequência de caracteres.
+
